@@ -6,6 +6,8 @@ Always happy to talk about anything!
 
 I'm especially interested in developing computer games and social media platforms.
 
+Most of repositories are private for now. I will consider making some of them public in the future.
+
 <!--
 **chriskorosu/chriskorosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
