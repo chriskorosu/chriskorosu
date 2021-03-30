@@ -1,6 +1,6 @@
 Trying to be kind, patient, and reasonable with people, and to have some fun along the way 😉
 
-Currently trying to complete a CS degree at the University of Toronto. 
+Currently pursuing a CS degree at the University of Toronto. 
 
 Always happy to talk about anything!
 
