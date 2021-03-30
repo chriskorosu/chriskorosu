@@ -1,4 +1,10 @@
-### Hi there 👋
+Trying to be kind, patient, and reasonable with people, and to have some fun along the way 😉
+
+Currently trying to complete a CS degree at the University of Toronto. 
+
+Always happy to talk about anything!
+
+I'm especially interested in developing computer games and social media platforms.
 
 <!--
 **chriskorosu/chriskorosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
