@@ -2,8 +2,6 @@ Trying to be kind, patient, and reasonable with people, and to have some fun alo
 
 Currently pursuing a CS degree at the University of Toronto. 
 
-Always happy to talk about anything!
-
 I'm especially interested in developing computer games and BETTER social media platforms.
 
 Most of my repositories are private for now. I will consider making some of them public in the future.
