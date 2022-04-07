@@ -1,6 +1,6 @@
-Trying to be kind, patient, and reasonable with people, and to have some fun along the way 😉
+Always trying to be more kind, patient, and reasonable with people.
 
-Currently pursuing a CS degree at the University of Toronto. 
+Currently pursuing a CS degree at the University of Toronto.
 
 I'm especially interested in developing computer games and BETTER social media platforms.
 
