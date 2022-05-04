@@ -4,7 +4,7 @@ Currently pursuing a CS degree at the University of Toronto.
 
 I'm especially interested in developing computer games and BETTER social media platforms.
 
-Most of my repositories are private for now. I will consider making some of them public in the future.
+Most of my repositories are private for now. They'll be made public when they're ready :-)
 
 <!--
 **chriskorosu/chriskorosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
