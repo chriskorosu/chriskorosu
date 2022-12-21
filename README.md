@@ -6,6 +6,8 @@ I'm especially interested in developing computer games and BETTER social media p
 
 Most of my repositories are private for now. They'll be made public when they're ready :-)
 
+My Github avatar was created by @annahuynhly. Thanks Anna!
+
 <!--
 **chriskorosu/chriskorosu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
